@@ -4,36 +4,36 @@ I'm a Bachelor of Computer Application (BCA) student at Himalaya College of Engi
 
 ## 🎓 BCA Student at Himalaya College of Engineering
 
-🌱 Currently learning and improving my Full Stack Development skills
+*🌱 Currently learning and improving my Full Stack Development skills
 
-💻 Interested in Web Development & Software Development
+*💻 Interested in Web Development & Software Development
 
-🚀 Working on projects to strengthen my development skills
+*🚀 Working on projects to strengthen my development skills
 
-🛠️ Skills
+##🛠️ Skills
 Languages & Technologies
-HTML
+*HTML
 
-CSS
+*CSS
 
-JavaScript
+*JavaScript
 
-TypeScript
+*TypeScript
 
-Currently Learning
-Full Stack Development
+##Currently Learning
+*Full Stack Development
 
-Modern Web Technologies
+*Modern Web Technologies
 
-Backend Development
+*Backend Development
 
-🚀 Projects
+##🚀 Projects
 🍔 Online Food Ordering System
 A web-based food ordering system designed to provide an easy way for users to browse food items and place orders.
 
 🔗 View Project on GitHub
 
-🎓 Education
+##🎓 Education
 Himalaya College of Engineering, Kathmandu
 Bachelor of Computer Application (BCA)
 Oct 2024 – Present
@@ -42,23 +42,23 @@ United Academy, Lalitpur
 +2
 Sep 2022 – Sep 2024
 
-📜 Training & Certifications
+##📜 Training & Certifications
 Himalaya College of Engineering
 Full Stack Development
 
-🌐 Connect With Me
+##🌐 Connect With Me
 📧 Email: filyamaharjan98@gmail.com
 
 💼 LinkedIn: linkedin.com/in/filya-maharjan
 
 🐙 GitHub: github.com/FilyaMrj
 
-🗣️ Languages
+##🗣️ Languages
 🇳🇵 Nepali
 
 🇬🇧 English
 
 🇮🇳 Hindi
 
-⭐ Thanks for visiting my profile!
+##⭐ Thanks for visiting my profile!
 Feel free to explore my repositories and connect with me.
