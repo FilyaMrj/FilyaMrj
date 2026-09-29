@@ -1,8 +1,8 @@
-Hi, I'm Filya Maharjan 👋
-💻 BCA Student | Full Stack Developer
+# Hi, I'm Filya Maharjan 👋
+### 💻 BCA Student | Full Stack Developer
 I'm a Bachelor of Computer Application (BCA) student at Himalaya College of Engineering, Kathmandu, passionate about web development and building practical, user-friendly applications.
 
-🎓 BCA Student at Himalaya College of Engineering
+## 🎓 BCA Student at Himalaya College of Engineering
 
 🌱 Currently learning and improving my Full Stack Development skills
 
