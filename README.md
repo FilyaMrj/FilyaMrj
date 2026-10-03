@@ -28,7 +28,3 @@ Nepali • English • Hindi
 ## 📫 Let's connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:filyamaharjan98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filya-maharjan-aba1a6371/)
-
-## 📊 GitHub Stats
-![Filya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilyaMrj&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilyaMrj&layout=compact)
