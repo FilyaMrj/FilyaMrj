@@ -1,72 +1,34 @@
 # Hi, I'm Filya Maharjan 👋
-### 💻 BCA Student | Full Stack Developer
-I'm a Bachelor of Computer Application (BCA) student at Himalaya College of Engineering, Kathmandu, passionate about web development and building practical, user-friendly applications.
 
-## 🎓 BCA Student at Himalaya College of Engineering
+🎓 BCA student at **Himalaya College of Engineering**, Kathmandu
+📍 Based in Lalitpur, Nepal
+💻 Aspiring full-stack developer who loves building things for the web
+🌱 Hardworking, curious, and always eager to learn something new
 
-*🌱 Currently learning and improving my Full Stack Development skills
+## 🔭 What I'm up to
+- Studying **Bachelor of Computer Application (BCA)** (2024 - present)
+- Learning and practicing **Full Stack Development**
+- Looking for opportunities to apply my skills and grow as a developer
 
-*💻 Interested in Web Development & Software Development
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-*🚀 Working on projects to strengthen my development skills
+## 🚀 Featured Project
+### 🍔 [Online Food Ordering System](https://github.com/FilyaMrj/Online-Food-Ordering-System)
+A food ordering web application built as part of my full stack development learning journey.
 
-🛠️ Skills
---
-Languages & Technologies
-*HTML
+## 🌐 Languages
+Nepali • English • Hindi
 
-*CSS
+## 📫 Let's connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:filyamaharjan98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filya-maharjan-aba1a6371/)
 
-*JavaScript
-
-*TypeScript
-
-Currently Learning
---
-*Full Stack Development
-
-*Modern Web Technologies
-
-*Backend Development
-
-🚀 Projects
---
-🍔 Online Food Ordering System
-A web-based food ordering system designed to provide an easy way for users to browse food items and place orders.
-
-🔗 View Project on GitHub
-
-🎓 Education
---
-Himalaya College of Engineering, Kathmandu
-Bachelor of Computer Application (BCA)
-Oct 2024 – Present
-
-United Academy, Lalitpur
-+2
-Sep 2022 – Sep 2024
-
-📜 Training & Certifications
---
-Himalaya College of Engineering
-Full Stack Development
-
-🌐 Connect With Me
---
-📧 Email: filyamaharjan98@gmail.com
-
-💼 LinkedIn: linkedin.com/in/filya-maharjan
-
-🐙 GitHub: github.com/FilyaMrj
-
-🗣️ Languages
---
-🇳🇵 Nepali
-
-🇬🇧 English
-
-🇮🇳 Hindi
-
-⭐ Thanks for visiting my profile!
---
-Feel free to explore my repositories and connect with me.
+## 📊 GitHub Stats
+![Filya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilyaMrj&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilyaMrj&layout=compact)
